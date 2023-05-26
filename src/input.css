@@ -1,6 +1,4 @@
 @tailwind base;
 @tailwind components;
-.bouzid{
-    @apply bg-red-500 text-2xl border rounded-lg text-white;
-}
+
 @tailwind utilities;

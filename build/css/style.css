@@ -522,13 +522,12 @@ video {
   --tw-backdrop-sepia:  ;
 }
 
-.bouzid {
-  border-radius: 0.5rem;
-  border-width: 1px;
+.bg-red-400 {
   --tw-bg-opacity: 1;
-  background-color: rgb(239 68 68 / var(--tw-bg-opacity));
-  font-size: 1.5rem;
-  line-height: 2rem;
+  background-color: rgb(248 113 113 / var(--tw-bg-opacity));
+}
+
+.text-white {
   --tw-text-opacity: 1;
   color: rgb(255 255 255 / var(--tw-text-opacity));
 }
